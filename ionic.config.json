@@ -1,0 +1,7 @@
+{
+  "name": "ionic5-react-i18n-exmple",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
