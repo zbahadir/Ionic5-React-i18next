@@ -1,0 +1,15 @@
+
+{
+    "main": {
+        "title": "Ionic5 React i18nex - Tricoter"
+    },
+    "selector_title": "Changer de langue",
+    "turkish": "Turc",
+    "french": "French",
+    "english": "Anglais",
+    "ok": "D'accord",
+    "dismiss": "Annuler"
+
+}
+
+

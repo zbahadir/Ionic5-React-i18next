@@ -1,10 +1,11 @@
 {
-    "search": {
-        "clients": "Search clients EN"
+    "main": {
+        "title": "Ionic5 React i18nex - Example"
     },
-    "add": {
-        "client": "Create a client",
-        "start": "Create a client to get started"
-    },
-    "zafer": "Zafer BAHADIR - En"
+    "selector_title": "Change Language",
+    "turkish": "Turkish",
+    "english": "English",
+    "french": "French",
+    "ok": "OK",
+    "dismiss": "Cancel"
 }

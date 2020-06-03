@@ -1,11 +1,12 @@
 {
-    "search": {
-        "clients": "Search clients TR"
+    "main": {
+        "title": "Ionic5 React i18nex - Örnek"
     },
-    "add": {
-        "client": "Create a client",
-        "start": "Create a client to get started"
-    },
-    "zafer": "Zafer BAHADIR - TR"
+    "selector_title": "Dili Değiştir",
+    "turkish": "Türkçe",
+    "french": "Fransızca",
+    "english": "İngilizce",
+    "ok": "Tamam",
+    "dismiss": "Vazgeç"
 
 }
