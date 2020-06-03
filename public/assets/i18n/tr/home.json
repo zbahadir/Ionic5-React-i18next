@@ -1,9 +1,11 @@
 {
     "search": {
-        "clients": "Search clients"
+        "clients": "Search clients TR"
     },
     "add": {
         "client": "Create a client",
         "start": "Create a client to get started"
-    }
+    },
+    "zafer": "Zafer BAHADIR - TR"
+
 }
